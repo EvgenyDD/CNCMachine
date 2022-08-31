@@ -1,0 +1,3 @@
+X home 0 min -325.249 max 31.470 travel -324 to 31 total 355
+Y home 0 min -149.697 max 48.247 travel -149 to 47 total 196
+Z home 0 min -69.933  max 9.460  travel -69  to 9  total 78

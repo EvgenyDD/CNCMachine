@@ -1,0 +1,70 @@
+[OutputJobFile]
+Version=1.0
+Caption=
+Description=
+VaultGUID=
+ItemGUID=
+ItemHRID=
+RevisionGUID=
+RevisionId=
+VaultHRID=
+AutoItemHRID=
+NextRevId=
+FolderGUID=
+LifeCycleDefinitionGUID=
+RevisionNamingSchemeGUID=
+
+[OutputGroup1]
+Name=3D.OutJob
+Description=
+TargetOutputMedium=Folder Structure
+VariantName=[No Variations]
+VariantScope=1
+CurrentConfigurationName=3D
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputMedium1=Print Job
+OutputMedium1_Type=Printer
+OutputMedium1_Printer=
+OutputMedium1_PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputMedium2=Folder Structure
+OutputMedium2_Type=GeneratedFiles
+OutputType1=ExportSTEP
+OutputName1=step
+OutputCategory1=Export
+OutputDocumentPath1=
+OutputVariantName1=
+OutputEnabled1=1
+OutputEnabled1_OutputMedium1=0
+OutputEnabled1_OutputMedium2=1
+OutputDefault1=0
+Configuration1_Name1=OutputConfigurationParameter1
+Configuration1_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModelsOption=2|ExportHolesOption=0|CanSelectPrimitives=False|IncludeMechanicalPadHoles=True|IncludeElectricalPadHoles=True|IncludeFreePadHoles=True|ExportFoldedBoard=True|ExportFoldedBoardRate=100|ComponentSuffixType=0|ComponentSuffix= |ExportCopperOption=0|ExportCopperLayer=0|ExportPadAndViaBarrelsOnly=False|IgnoreBoardCopperLayerColors=False|ExportAsSinglePart=False|IncludeCoverLayer=True|SkipFreeBodies=False
+
+[PublishSettings]
+OutputFilePath2=E:\Projects\MFS\WindingBoard\PCB\Work\Project Outputs for WindingBoard\
+ReleaseManaged2=1
+OutputBasePath2=Project Outputs for WindingBoard
+OutputPathMedia2=
+OutputPathMediaValue2=3D
+OutputPathOutputer2=
+OutputPathOutputerPrefix2=
+OutputPathOutputerValue2=
+OutputFileName2=
+OutputFileNameMulti2==PRJ_ID+' '+PRJ_VER
+UseOutputNameForMulti2=0
+OutputFileNameSpecial2=
+OpenOutput2=1
+
+[GeneratedFilesSettings]
+RelativeOutputPath2=E:\Projects\MFS\WindingBoard\PCB\Work\Project Outputs for WindingBoard\
+OpenOutputs2=1
+AddToProject2=1
+TimestampFolder2=0
+UseOutputName2=0
+OpenODBOutput2=0
+OpenGerberOutput2=0
+OpenNCDrillOutput2=0
+OpenIPCOutput2=0
+EnableReload2=0
+
